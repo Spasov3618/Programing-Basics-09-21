@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.exe
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.deps.json
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.dll
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\bin\Debug\netcoreapp3.1\in large numbers.pdb
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.dll
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.pdb
+C:\Users\sv.spasov\source\repos\Solution1\in large numbers\obj\Debug\netcoreapp3.1\in large numbers.genruntimeconfig.cache

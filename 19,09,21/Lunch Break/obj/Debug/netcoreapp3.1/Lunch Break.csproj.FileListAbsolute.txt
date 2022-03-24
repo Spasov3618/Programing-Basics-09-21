@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.exe
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.deps.json
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.genruntimeconfig.cache

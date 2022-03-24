@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.exe
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.deps.json
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\bin\Debug\netcoreapp3.1\Toy Shop.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Toy Shop\obj\Debug\netcoreapp3.1\Toy Shop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.exe
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.deps.json
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.genruntimeconfig.cache

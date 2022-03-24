@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.exe
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.deps.json
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.dll
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\excellent.pdb
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.dll
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.pdb
+C:\Users\sv.spasov\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\excellent.genruntimeconfig.cache

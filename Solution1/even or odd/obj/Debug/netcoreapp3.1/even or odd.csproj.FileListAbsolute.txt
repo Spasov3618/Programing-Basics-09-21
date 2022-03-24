@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.exe
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.deps.json
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.dll
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\bin\Debug\netcoreapp3.1\even or odd.pdb
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.dll
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.pdb
+C:\Users\sv.spasov\source\repos\Solution1\even or odd\obj\Debug\netcoreapp3.1\even or odd.genruntimeconfig.cache

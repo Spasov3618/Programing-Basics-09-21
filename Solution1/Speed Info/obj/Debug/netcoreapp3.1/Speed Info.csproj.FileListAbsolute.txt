@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.exe
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.deps.json
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\sv.spasov\source\repos\Solution1\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.exe
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.deps.json
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\19,09,21\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.csproj.AssemblyReference.cache
