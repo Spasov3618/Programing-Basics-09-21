@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\Users\sv.spasov\source\repos\26.09.21\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache

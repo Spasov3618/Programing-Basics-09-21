@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.exe
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.deps.json
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.dll
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.pdb
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.dll
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.pdb
+C:\Users\sv.spasov\source\repos\25.09.21\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.exe
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.deps.json
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\Users\sv.spasov\source\repos\26.09.21\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.genruntimeconfig.cache

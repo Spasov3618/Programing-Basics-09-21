@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\sv.spasov\source\repos\25.09.21\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.exe
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.deps.json
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+C:\Users\sv.spasov\source\repos\26,09,2021\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.genruntimeconfig.cache
