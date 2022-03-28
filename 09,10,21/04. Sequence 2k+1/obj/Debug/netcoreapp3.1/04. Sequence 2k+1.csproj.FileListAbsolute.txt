@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\Users\sv.spasov\source\repos\09,10,21\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache

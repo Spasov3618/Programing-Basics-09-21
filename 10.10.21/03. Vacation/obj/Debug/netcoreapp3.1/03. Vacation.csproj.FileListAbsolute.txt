@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\sv.spasov\source\repos\10.10.21\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\sv.spasov\source\repos\01.10.21\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache
