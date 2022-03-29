@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.exe
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.deps.json
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.genruntimeconfig.cache

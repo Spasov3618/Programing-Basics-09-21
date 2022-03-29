@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache

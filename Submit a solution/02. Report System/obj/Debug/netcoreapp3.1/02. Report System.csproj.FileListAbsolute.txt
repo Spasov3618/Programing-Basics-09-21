@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.exe
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.deps.json
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.genruntimeconfig.cache

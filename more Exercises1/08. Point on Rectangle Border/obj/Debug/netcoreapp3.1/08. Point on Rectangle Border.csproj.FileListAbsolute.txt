@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.exe
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.deps.json
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+C:\Users\sv.spasov\source\repos\more Exercises1\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.genruntimeconfig.cache

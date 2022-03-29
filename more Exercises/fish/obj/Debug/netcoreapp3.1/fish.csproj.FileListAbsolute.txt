@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.exe
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.deps.json
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.dll
+C:\Users\sv.spasov\source\repos\more Exercises\fish\bin\Debug\netcoreapp3.1\fish.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.dll
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\fish\obj\Debug\netcoreapp3.1\fish.genruntimeconfig.cache

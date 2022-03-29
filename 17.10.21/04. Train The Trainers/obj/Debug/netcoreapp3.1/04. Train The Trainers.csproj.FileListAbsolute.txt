@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.exe
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.deps.json
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.dll
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.dll
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+C:\Users\sv.spasov\source\repos\17.10.21\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.genruntimeconfig.cache

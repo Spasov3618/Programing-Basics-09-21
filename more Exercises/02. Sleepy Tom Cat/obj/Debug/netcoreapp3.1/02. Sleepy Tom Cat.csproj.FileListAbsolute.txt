@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.exe
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.deps.json
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\sv.spasov\source\repos\more Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.genruntimeconfig.cache

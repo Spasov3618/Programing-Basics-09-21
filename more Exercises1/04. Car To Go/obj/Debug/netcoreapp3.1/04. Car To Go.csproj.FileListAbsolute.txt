@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.exe
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.deps.json
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.dll
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.pdb
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.dll
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.pdb
+C:\Users\sv.spasov\source\repos\more Exercises1\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.genruntimeconfig.cache

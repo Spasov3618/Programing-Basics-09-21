@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.exe
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.deps.json
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.genruntimeconfig.cache
