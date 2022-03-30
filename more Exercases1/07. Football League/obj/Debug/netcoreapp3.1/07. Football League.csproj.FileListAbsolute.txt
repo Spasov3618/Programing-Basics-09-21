@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.exe
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.deps.json
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.genruntimeconfig.cache

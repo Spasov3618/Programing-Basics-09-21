@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.exe
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.deps.json
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.exe
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.deps.json
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.dll
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\bin\Debug\netcoreapp3.1\Profit.pdb
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.dll
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.pdb
+C:\Users\sv.spasov\source\repos\more exercises2\Profit\obj\Debug\netcoreapp3.1\Profit.genruntimeconfig.cache

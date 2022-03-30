@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.exe
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.deps.json
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\bin\Debug\netcoreapp3.1\11. Odd   Even Position.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.dll
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.pdb
+C:\Users\sv.spasov\source\repos\more Exercases1\11. Odd   Even Position\obj\Debug\netcoreapp3.1\11. Odd   Even Position.genruntimeconfig.cache

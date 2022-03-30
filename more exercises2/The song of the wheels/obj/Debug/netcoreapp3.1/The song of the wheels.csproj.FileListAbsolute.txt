@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.exe
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.deps.json
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.dll
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.pdb
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.dll
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.pdb
+C:\Users\sv.spasov\source\repos\more exercises2\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.genruntimeconfig.cache
