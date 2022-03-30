@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\bin\Debug\netcoreapp3.1\Филмов рейтинг.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Филмов рейтинг\obj\Debug\netcoreapp3.1\Филмов рейтинг.genruntimeconfig.cache

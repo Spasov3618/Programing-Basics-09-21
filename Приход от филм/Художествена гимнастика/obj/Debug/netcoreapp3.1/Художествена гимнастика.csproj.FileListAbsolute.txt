@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\bin\Debug\netcoreapp3.1\Художествена гимнастика.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Художествена гимнастика\obj\Debug\netcoreapp3.1\Художествена гимнастика.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\bin\Debug\netcoreapp3.1\Туристически магазин.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Туристически магазин\obj\Debug\netcoreapp3.1\Туристически магазин.genruntimeconfig.cache

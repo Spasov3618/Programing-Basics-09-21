@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\bin\Debug\netcoreapp3.1\Семейна почивка.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Семейна почивка\obj\Debug\netcoreapp3.1\Семейна почивка.genruntimeconfig.cache

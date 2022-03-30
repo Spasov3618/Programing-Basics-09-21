@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\bin\Debug\netcoreapp3.1\Приход от филм.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Приход от филм\obj\Debug\netcoreapp3.1\Приход от филм.genruntimeconfig.cache

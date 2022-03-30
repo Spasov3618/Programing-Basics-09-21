@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.exe
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.deps.json
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.dll
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\bin\Debug\netcoreapp3.1\02. Football Kit.pdb
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.dll
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.pdb
+C:\Users\sv.spasov\source\repos\Trial exam\02. Football Kit\obj\Debug\netcoreapp3.1\02. Football Kit.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.exe
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.deps.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\bin\Debug\netcoreapp3.1\Ветеринарен Паркинг.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.dll
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.pdb
+C:\Users\sv.spasov\source\repos\Приход от филм\Ветеринарен Паркинг\obj\Debug\netcoreapp3.1\Ветеринарен Паркинг.genruntimeconfig.cache
