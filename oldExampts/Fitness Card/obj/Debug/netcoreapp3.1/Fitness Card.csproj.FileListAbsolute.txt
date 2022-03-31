@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.exe
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.exe
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.genruntimeconfig.cache

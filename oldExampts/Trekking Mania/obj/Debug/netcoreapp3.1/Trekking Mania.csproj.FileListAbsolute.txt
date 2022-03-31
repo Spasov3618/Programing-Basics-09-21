@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.exe
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.genruntimeconfig.cache

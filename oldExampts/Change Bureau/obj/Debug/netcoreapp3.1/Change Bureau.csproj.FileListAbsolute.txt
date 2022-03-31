@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.exe
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\bin\Debug\netcoreapp3.1\Change Bureau.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Change Bureau\obj\Debug\netcoreapp3.1\Change Bureau.genruntimeconfig.cache

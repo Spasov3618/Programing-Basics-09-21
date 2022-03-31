@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.exe
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\bin\Debug\netcoreapp3.1\Birthday Party.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.dll
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.pdb
+C:\Users\sv.spasov\source\repos\oldExampts\Birthday Party\obj\Debug\netcoreapp3.1\Birthday Party.genruntimeconfig.cache
