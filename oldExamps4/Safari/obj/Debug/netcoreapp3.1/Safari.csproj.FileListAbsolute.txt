@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.exe
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\bin\Debug\netcoreapp3.1\Safari.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Safari\obj\Debug\netcoreapp3.1\Safari.genruntimeconfig.cache

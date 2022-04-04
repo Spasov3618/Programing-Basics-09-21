@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.exe
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\bin\Debug\netcoreapp3.1\Fruit Market.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Fruit Market\obj\Debug\netcoreapp3.1\Fruit Market.genruntimeconfig.cache

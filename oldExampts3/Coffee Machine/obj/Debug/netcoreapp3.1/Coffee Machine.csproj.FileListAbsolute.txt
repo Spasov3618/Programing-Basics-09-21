@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.exe
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\bin\Debug\netcoreapp3.1\Coffee Machine.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Coffee Machine\obj\Debug\netcoreapp3.1\Coffee Machine.genruntimeconfig.cache

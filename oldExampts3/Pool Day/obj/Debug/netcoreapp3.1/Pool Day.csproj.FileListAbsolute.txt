@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.exe
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.genruntimeconfig.cache

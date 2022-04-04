@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.exe
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\bin\Debug\netcoreapp3.1\Division Without Remainder.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Division Without Remainder\obj\Debug\netcoreapp3.1\Division Without Remainder.genruntimeconfig.cache

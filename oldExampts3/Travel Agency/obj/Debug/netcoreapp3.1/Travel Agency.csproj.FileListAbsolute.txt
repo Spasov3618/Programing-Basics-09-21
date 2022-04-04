@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.exe
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.deps.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.dll
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.pdb
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\oldExampts3\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.csproj.AssemblyReference.cache

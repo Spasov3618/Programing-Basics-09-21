@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.exe
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\bin\Debug\netcoreapp3.1\Football Tournament.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.dll
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.pdb
+C:\Users\sv.spasov\source\repos\oldExamps4\Football Tournament\obj\Debug\netcoreapp3.1\Football Tournament.genruntimeconfig.cache
