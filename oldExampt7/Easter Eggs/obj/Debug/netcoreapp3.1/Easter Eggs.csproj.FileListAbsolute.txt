@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.genruntimeconfig.cache

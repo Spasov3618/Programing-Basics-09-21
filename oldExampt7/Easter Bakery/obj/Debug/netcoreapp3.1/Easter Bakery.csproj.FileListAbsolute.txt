@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\bin\Debug\netcoreapp3.1\Easter Bakery.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Bakery\obj\Debug\netcoreapp3.1\Easter Bakery.genruntimeconfig.cache

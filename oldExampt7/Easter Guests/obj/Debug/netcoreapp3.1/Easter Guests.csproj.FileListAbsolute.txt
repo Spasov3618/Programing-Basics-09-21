@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\bin\Debug\netcoreapp3.1\Easter Guests.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Guests\obj\Debug\netcoreapp3.1\Easter Guests.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\bin\Debug\netcoreapp3.1\Easter Decoration.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Decoration\obj\Debug\netcoreapp3.1\Easter Decoration.genruntimeconfig.cache

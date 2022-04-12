@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.exe
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.deps.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\bin\Debug\netcoreapp3.1\Square Frame.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Square Frame\obj\Debug\netcoreapp3.1\Square Frame.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\bin\Debug\netcoreapp3.1\Tennis Equipment.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Equipment\obj\Debug\netcoreapp3.1\Tennis Equipment.genruntimeconfig.cache

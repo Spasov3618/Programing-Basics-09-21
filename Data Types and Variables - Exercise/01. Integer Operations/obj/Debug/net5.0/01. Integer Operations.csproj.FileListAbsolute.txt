@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\ref\01. Integer Operations.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache

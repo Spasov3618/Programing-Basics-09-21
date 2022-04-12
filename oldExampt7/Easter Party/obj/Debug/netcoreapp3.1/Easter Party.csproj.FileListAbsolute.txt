@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\bin\Debug\netcoreapp3.1\Easter Party.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Easter Party\obj\Debug\netcoreapp3.1\Easter Party.genruntimeconfig.cache

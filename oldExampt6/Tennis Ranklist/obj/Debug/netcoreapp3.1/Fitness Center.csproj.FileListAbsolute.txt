@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\bin\Debug\netcoreapp3.1\Fitness Center.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Tennis Ranklist\obj\Debug\netcoreapp3.1\Fitness Center.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.exe
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.deps.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\bin\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Strong number\obj\Debug\netcoreapp3.1\Strong number.genruntimeconfig.cache

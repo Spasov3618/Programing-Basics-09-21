@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.exe
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\bin\Debug\netcoreapp3.1\Movie Destination.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Destination\obj\Debug\netcoreapp3.1\Movie Destination.genruntimeconfig.cache

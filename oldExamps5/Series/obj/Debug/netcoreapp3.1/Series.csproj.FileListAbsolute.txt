@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.genruntimeconfig.cache

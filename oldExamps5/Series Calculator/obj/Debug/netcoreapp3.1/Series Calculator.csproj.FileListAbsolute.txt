@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.exe
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.genruntimeconfig.cache

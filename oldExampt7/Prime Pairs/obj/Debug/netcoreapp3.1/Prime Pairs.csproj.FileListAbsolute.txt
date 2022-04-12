@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.exe
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\bin\Debug\netcoreapp3.1\Prime Pairs.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.dll
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.pdb
+C:\Users\sv.spasov\source\repos\oldExampt7\Prime Pairs\obj\Debug\netcoreapp3.1\Prime Pairs.genruntimeconfig.cache

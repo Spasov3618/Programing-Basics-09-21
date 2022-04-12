@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\ref\English Name.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\bin\Debug\net5.0\English Name.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\ref\English Name.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\English Name\obj\Debug\net5.0\English Name.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.exe
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.deps.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.genruntimeconfig.cache

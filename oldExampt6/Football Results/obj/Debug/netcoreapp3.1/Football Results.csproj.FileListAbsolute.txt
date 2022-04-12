@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\bin\Debug\netcoreapp3.1\Football Results.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Football Results\obj\Debug\netcoreapp3.1\Football Results.genruntimeconfig.cache

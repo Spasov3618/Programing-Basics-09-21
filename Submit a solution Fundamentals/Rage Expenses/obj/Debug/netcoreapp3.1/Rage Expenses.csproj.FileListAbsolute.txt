@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.exe
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.deps.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\bin\Debug\netcoreapp3.1\Rage Expenses.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.dll
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.pdb
+C:\Users\sv.spasov\source\repos\Submit a solution Fundamentals\Rage Expenses\obj\Debug\netcoreapp3.1\Rage Expenses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.exe
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.deps.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\bin\Debug\netcoreapp3.1\sunglas.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\sunglas\obj\Debug\netcoreapp3.1\sunglas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.exe
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\bin\Debug\netcoreapp3.1\Movie Tickets.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Movie Tickets\obj\Debug\netcoreapp3.1\Movie Tickets.genruntimeconfig.cache

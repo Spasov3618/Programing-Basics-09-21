@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.exe
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.deps.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\sv.spasov\source\repos\with Loops - More Exercises\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.genruntimeconfig.cache

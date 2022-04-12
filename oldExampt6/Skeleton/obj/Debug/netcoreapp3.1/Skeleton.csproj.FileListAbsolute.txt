@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\sv.spasov\source\repos\oldExampt6\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

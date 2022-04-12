@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.exe
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.deps.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.dll
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.pdb
+C:\Users\sv.spasov\source\repos\oldExamps5\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.genruntimeconfig.cache

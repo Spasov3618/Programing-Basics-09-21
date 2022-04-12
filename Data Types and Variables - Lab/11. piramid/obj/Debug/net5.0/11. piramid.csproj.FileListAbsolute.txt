@@ -1,0 +1,15 @@
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.exe
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.deps.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\ref\11. piramid.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\bin\Debug\net5.0\11. piramid.pdb
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\ref\11. piramid.dll
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.pdb
+C:\Users\sv.spasov\source\repos\Data Types and Variables - Lab\11. piramid\obj\Debug\net5.0\11. piramid.genruntimeconfig.cache
